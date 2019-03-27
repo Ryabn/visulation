@@ -1,0 +1,20 @@
+:root{
+    --animation-speed: 200ms;
+}
+
+#graphic{
+    height: 80vh;
+    width: 80vh;
+}
+.node{
+    box-sizing: border-box;
+    height: 60px;
+    width: 60px;
+    padding-top: 10px;
+    border-radius: 35px;
+    border: 5px solid purple;
+    text-align: center;
+    font-size: 22px;
+    color: white;
+    transition: all var(--animation-speed);
+}

@@ -28,7 +28,7 @@
     "not op_mini all"
   ],
   "devDependencies": {
-    "homepage": "http://ryabn.github.io/visulation",
     "gh-pages": "^2.0.1"
-  }
+  },
+  "homepage": "http://ryabn.github.io/visulation"
 }
