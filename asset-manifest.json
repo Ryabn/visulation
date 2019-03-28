@@ -1,14 +1,13 @@
 {
-  "main.css": "/visulation/static/css/main.782f1693.chunk.css",
-  "main.js": "/visulation/static/js/main.9f4fcbe4.chunk.js",
-  "main.js.map": "/visulation/static/js/main.9f4fcbe4.chunk.js.map",
+  "main.css": "/visulation/static/css/main.45832daa.chunk.css",
+  "main.js": "/visulation/static/js/main.3454ffaa.chunk.js",
+  "main.js.map": "/visulation/static/js/main.3454ffaa.chunk.js.map",
   "runtime~main.js": "/visulation/static/js/runtime~main.3f57a16a.js",
   "runtime~main.js.map": "/visulation/static/js/runtime~main.3f57a16a.js.map",
-  "static/js/2.b934461c.chunk.js": "/visulation/static/js/2.b934461c.chunk.js",
-  "static/js/2.b934461c.chunk.js.map": "/visulation/static/js/2.b934461c.chunk.js.map",
+  "static/js/2.9cee5113.chunk.js": "/visulation/static/js/2.9cee5113.chunk.js",
+  "static/js/2.9cee5113.chunk.js.map": "/visulation/static/js/2.9cee5113.chunk.js.map",
   "index.html": "/visulation/index.html",
-  "precache-manifest.dca25988e42c17002738dc5c4c6bc82b.js": "/visulation/precache-manifest.dca25988e42c17002738dc5c4c6bc82b.js",
+  "precache-manifest.1da188ae10f61e22f595f01800046bb2.js": "/visulation/precache-manifest.1da188ae10f61e22f595f01800046bb2.js",
   "service-worker.js": "/visulation/service-worker.js",
-  "static/css/main.782f1693.chunk.css.map": "/visulation/static/css/main.782f1693.chunk.css.map",
-  "static/media/logo.svg": "/visulation/static/media/logo.5d5d9eef.svg"
+  "static/css/main.45832daa.chunk.css.map": "/visulation/static/css/main.45832daa.chunk.css.map"
 }
