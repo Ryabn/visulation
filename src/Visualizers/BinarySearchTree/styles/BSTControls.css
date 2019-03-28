@@ -12,3 +12,11 @@
 .no-margin{
     margin: 0;
 }
+svg{
+    position: fixed;
+}
+.node-link{
+    stroke-width: 3px;
+    stroke: white;
+    z-index: 500;
+}

@@ -4,9 +4,6 @@ import {Card, CardHeader, TextField, IconButton} from '@material-ui/core';
 import AddIcon from '@material-ui/icons/Add';
 
 export class BSTControls extends Component {
-    componentDidMount(){
-        this.props.insert(23);
-    }
     insert = () => {
         this.props.insert(parseInt(document.getElementById('user-insert').value));
     }

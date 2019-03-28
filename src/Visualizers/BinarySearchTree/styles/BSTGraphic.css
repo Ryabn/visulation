@@ -3,9 +3,10 @@
 }
 
 #graphic{
-    height: 80vh;
-    padding-top: 20px;
-    width: 80vh;
+    height: 1fr;
+    width: 1fr;
+    grid-row: 1/3;
+    overflow-y: scroll;
 }
 @keyframes fadein{
     from{
