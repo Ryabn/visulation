@@ -9,7 +9,7 @@ export class BSTVisualizer extends Component {
         super(props);
         this.bst = new BinarySearchTree();
         this.state = {
-            action: "",
+            action: '',
             payload: 0
         }
     }

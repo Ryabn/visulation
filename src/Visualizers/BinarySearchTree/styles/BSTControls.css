@@ -1,0 +1,14 @@
+.control-header{
+    font-family: 'Raleway', sans-serif;
+    text-align: center;
+}
+.bst-controls{
+    text-align: center;
+    padding: 20px;
+    display: grid;
+    row-gap: 20px;
+    grid-template-columns: calc(100% - 56px) 56px;
+}
+.no-margin{
+    margin: 0;
+}

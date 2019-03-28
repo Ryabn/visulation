@@ -4,17 +4,42 @@
 
 #graphic{
     height: 80vh;
+    padding-top: 20px;
     width: 80vh;
 }
+@keyframes fadein{
+    from{
+        opacity: 0;
+    }to{
+        opacity: 1;
+    }
+}
 .node{
-    box-sizing: border-box;
-    height: 60px;
-    width: 60px;
-    padding-top: 10px;
+    position: fixed;
+    animation: fadein 1s;
+    font-family: 'Source Code Pro', monospace;
+    height: 70px;
+    width: 70px;
     border-radius: 35px;
-    border: 5px solid purple;
-    text-align: center;
-    font-size: 22px;
-    color: white;
+    background-image: linear-gradient(to bottom, #ff4be7, #8e38ff);
+    z-index: 100;
     transition: all var(--animation-speed);
+}
+.node-span{
+    position: absolute;
+    height: 58px;
+    width: 58px;
+    margin: 6px 0 0 6px;
+    font-size: 26px;
+    box-sizing: border-box;
+    padding-top: 12px;
+    text-align: center;
+    border-radius: 30px;
+    background-color: #151515;
+    box-shadow: 0 0 5px 5px #151515;
+    transition: all 500ms;
+    color: white;
+}
+.node-span:hover{
+    box-shadow: 0 0 5px 2px #151515;
 }
